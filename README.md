@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nisarg Patel</h1>
+<h1 align="center">Hi 👋, I'm Ninad Vyas</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="(https://t4.ftcdn.net/jpg/02/83/46/33/360_F_283463385_mfnrx6RPU3BqObhVuVjYZjeZ5pegE7xq.jpg)">
 
