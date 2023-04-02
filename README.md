@@ -16,7 +16,6 @@
 > A computer engineering student👨🏻‍💻 with a passion for technology and problem-solving. 
 > Familiar with various software development tools and technologies as well as experience in database management.
 > Enjoy connecting with people across a wide range of backgrounds🌏.
-> If you ever want to bounce ideas off of me or even just have a chat about my favorite anime🥷🏻, please feel free to reach out.
 > Do 🌟 my repository if you find my project interesting
 ````
 
