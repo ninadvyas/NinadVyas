@@ -1,7 +1,7 @@
 
 # 👋Hi, I'm [Ninad Vyas](https://NinadVyas.github.io)! 
 
->  💻 Tech Enthusiastic | Web-Development | IT-Support
+>  💻 Tech Enthusiastic | Web-Development |
 
 
 ## 🤝 Connect with me
@@ -18,6 +18,7 @@
 > Enjoy connecting with people across a wide range of backgrounds🌏.
 > Do 🌟 my repository if you find my project interesting
 ````
+
 
 ## 🖇️ Tech Stack 
 
