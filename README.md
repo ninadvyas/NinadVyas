@@ -2,17 +2,23 @@
 
 <h1 align="center">Hi 👋, I'm Ninad Vyas</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ninad3721&label=Profile%20views&color=0e75b6&style=flat" alt="ninad3721" /> </p>
 
+<h2 align='center' >As a technology enthusiast and aspiring web developer, I find joy in connecting ideas and creating impactful solutions through my skills.</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ninadvyas&label=Profile%20views&color=0e75b6&style=flat" alt="ninad3721" /> </p>
+
+  
 - 🔭 I’m currently working on Some Projects
 
 - 🌱 I’m currently learning **Backend Development** 
 
 - 💬 Ask me about **HTML, CSS, PHP, SQL, JAVASCRIPT, React**
 
-- 🫥 Fun fact **"I have a unique ability to turn coffee into code."**
+- 🫥 Fun fact **"I have a unique ability to turn coffee into code"**
 
-- 📫 How to reach me **ninadvyas07@gmail.com**<br>
+- 📫 How to reach me **ninadvyas07@gmail.com**<br> 
+
+- 🚀 Enjoy connecting with people across a wide range of backgrounds🌏
+
 
 
 ## 🤝 Connect with me
@@ -22,15 +28,7 @@
 
 
 
-````python
-> help --info
-> A computer engineering student👨🏻‍💻 with a passion for technology and problem-solving. 
 
-
-> Familiar with various software development tools and technologies as well as experience in database management.
-> Enjoy connecting with people across a wide range of backgrounds🌏.
-> Do 🌟 my repository if you find my project interesting
-````
 
 
 ## 🖇️ Tech Stack 
