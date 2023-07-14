@@ -16,7 +16,7 @@
 
 - 🫥 Fun fact **"I have a unique ability to turn coffee into code"**
 
-- 📫 How to reach me **ninadvyas07@gmail.com**<br> 
+- 📫 How to reach me **[Ninad Vyas](mailto:ninadvyas07@gmail.com)**
 
 - 🚀 Enjoy connecting with people across a wide range of backgrounds🌏
 
@@ -26,6 +26,7 @@
 
 <a href="https://www.linkedin.com/in/ninad-vyas-b767491a3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"   /></a>&nbsp;
 <a href="https://www.twitter.com/@NinadVyas87"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+
 
 
 
@@ -54,6 +55,6 @@
 
 ## 📍Github Stats
 ![Ninad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninadvyas&theme=dark&show_icons=true&&text_color=EBEBEB&&icon_color=239b8b&title_color=239b8b&bg_color=0D1117)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NinadVyas&theme=panda&date_format=M%20j%5B%2C%20Y%5D&card_width=493&border=EBEBEB&dates=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NinadVyas&theme=panda&date_format=M%20j%5B%2C%20Y%5D&card_width=393&border=EBEBEB&dates=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&background=0D1117)](https://git.io/streak-stats)
 
 
