@@ -1,4 +1,5 @@
-![Profile-banner](https://github.com/NinadVyas/NinadVyas/assets/115214615/f0197491-1749-42f9-99af-f0c32ab8594c)
+
+![banner2](https://github.com/NinadVyas/NinadVyas/assets/115214615/2241cdb0-fb33-4a4e-8e20-8c3cc177fee4)
 
 
 <h1 align="center">Hi 👋, I'm Ninad Vyas</h1>
