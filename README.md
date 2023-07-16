@@ -9,13 +9,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninadvyas&label=Profile%20views&color=0e75b6&style=flat" alt="ninad3721" /> </p>
 
   
-- 🔭 I’m currently working on Some Projects
+- 🔭 I’m currently working on Building Projects
 
 - 🌱 I’m currently learning **Backend Development** 
 
 - 💬 Ask me about **HTML, CSS, PHP, SQL, JAVASCRIPT, React**
-
-- 🫥 Fun fact **"I have a unique ability to turn coffee into code"**
 
 - 📫 How to reach me **[Ninad Vyas](mailto:ninadvyas07@gmail.com)**
 
