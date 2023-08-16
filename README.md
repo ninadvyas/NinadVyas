@@ -28,19 +28,12 @@
 <a href="https://www.twitter.com/@NinadVyas87"><img src="https://skillicons.dev/icons?i=twitter" width="50px">
 </a>&nbsp;
 
-
-
-
-
-
-
-
 ## 🖇️ Tech Stack & Tools
 <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,php,mysql,js,react,firebase,git,github,nextjs,tailwind,vite,postman,vscode,blender" width="100%">
 
 
 ## 📍Github Stats
 
-![Ninad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninadvyas&theme=dark&show_icons=true&&text_color=EBEBEB&&icon_color=239b8b&title_color=239b8b&bg_color=0D1117)
+![Ninad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninadvyas&theme=dark&show_icons=false&&text_color=EBEBEB&&icon_color=239b8b&title_color=239b8b&bg_color=0D1117)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NinadVyas&theme=panda&date_format=M%20j%5B%2C%20Y%5D&card_width=493&border=EBEBEB&dates=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&background=0D1117)](https://git.io/streak-stats)
 
