@@ -34,6 +34,16 @@
 
 ## 📍Github Stats
 
-![Ninad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninadvyas&theme=dark&show_icons=false&&text_color=EBEBEB&&icon_color=239b8b&title_color=239b8b&bg_color=0D1117)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NinadVyas&theme=panda&date_format=M%20j%5B%2C%20Y%5D&card_width=493&border=EBEBEB&dates=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&background=0D1117)](https://git.io/streak-stats)
+<div fontWeight="bold">
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NinadVyas&theme=react" height="198em" />
+</div>
+  <p><img align="center" height="195em" border='false' src="https://github-readme-streak-stats.herokuapp.com/?user=NinadVyas&theme=react" alt="NinadVyas" /></p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NinadVyas&theme=react)
+
+
+
+
+
+
 
