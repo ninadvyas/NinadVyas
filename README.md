@@ -37,7 +37,10 @@
 <div fontWeight="bold">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NinadVyas&theme=react" height="198em" />
 </div>
-  <p><img align="center" height="195em" border='false' src="https://github-readme-streak-stats.herokuapp.com/?user=NinadVyas&theme=react" alt="NinadVyas" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NinadVyas&theme=react&card_width=400&border=EB545400)](https://git.io/streak-stats)
+
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NinadVyas&theme=react)
 
