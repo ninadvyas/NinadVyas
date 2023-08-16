@@ -23,9 +23,9 @@
 
 ## 🤝 Connect with me
 
-<a href="https://www.linkedin.com/in/ninad-vyas-b767491a3/"><img src="https://skillicons.dev/icons?i=linkedin" width="55px">
+<a href="https://www.linkedin.com/in/ninad-vyas-b767491a3/"><img src="https://skillicons.dev/icons?i=linkedin" width="50px">
 </a>&nbsp;
-<a href="https://www.twitter.com/@NinadVyas87"><img src="https://skillicons.dev/icons?i=twitter" width="55px">
+<a href="https://www.twitter.com/@NinadVyas87"><img src="https://skillicons.dev/icons?i=twitter" width="50px">
 </a>&nbsp;
 
 
