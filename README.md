@@ -23,9 +23,11 @@
 
 ## 🤝 Connect with me
 
-<a href="https://www.linkedin.com/in/ninad-vyas-b767491a3/"><img src="https://skillicons.dev/icons?i=linkedin" width="50px">
+<a href="https://www.linkedin.com/in/ninad-vyas-b767491a3/"><img src="https://skillicons.dev/icons?i=linkedin" width="48px">
 </a>&nbsp;
-<a href="https://www.twitter.com/@NinadVyas87"><img src="https://skillicons.dev/icons?i=twitter" width="50px">
+<a href="https://dev.to/ninadvyas"><img src="https://skillicons.dev/icons?i=devto" width="48px">
+</a>&nbsp;
+<a href="https://www.twitter.com/@NinadVyas87"><img src="https://skillicons.dev/icons?i=twitter" width="48px">
 </a>&nbsp;
 
 ## 🖇️ Tech Stack & Tools
