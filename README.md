@@ -10,18 +10,9 @@ Howdy, I'm Ninad.
   - 🫱🏻‍🫲🏻 Interested in collaborations
   - 🌍 Enjoy connecting with people across the globe [Let's Connect!](https://www.linkedin.com/in/ninadvyas/)
 
-### 🌐 Connect with me
-
-<a href="https://www.linkedin.com/in/ninadvyas/"><img src="https://skillicons.dev/icons?i=linkedin" width="48px">
-</a>&nbsp;
-<a href="https://dev.to/ninadvyas"><img src="https://skillicons.dev/icons?i=devto" width="48px">
-</a>&nbsp;
-<a href="https://twitter.com/ninadvsd"><img src="https://skillicons.dev/icons?i=twitter" width="48px">
-</a>&nbsp;
-
 ### 🖇️ Tech Stack & Tools
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,php,mysql,js,react,firebase,git,github,nextjs,tailwind,vite,postman,vscode,blender" width="100%">
-
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,php,mysql,js,react,nextjs,tailwind,vite&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=firebase,git,github,postman,vscode,blender&theme=dark)
 ### 📍Github Stats
 <table>
   <tr>
