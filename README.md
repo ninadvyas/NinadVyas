@@ -3,7 +3,7 @@
 
 Howdy, I'm Ninad.
 ### 🧑🏻 Know more about me!
-  - ✉️ Contact me at [@ninadvyas](mailto:ninadvyas07@gmail.com)
+  - ✉️ Contact me at [@ninadvyas](mailto:ninadvsd@gmail.com)
   - 💬 Ask me about design, project ideas, errors and chess
   - 🧠 Learning full stack development!
   - 🚀 Sharing my experiences on [Twitter](https://twitter.com/ninadvsd) and archiving it on [GitHub](https://github.com/ninadvyas)
