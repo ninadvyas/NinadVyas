@@ -31,10 +31,10 @@ jobs:
 
           # Recent Activity
           plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_visibility: all
+          plugin_activity_limit: 3
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create, comment, public, fork
+          plugin_activity_visibility: public
 
           # YouTube Music
           plugin_music: yes
